@@ -122,6 +122,16 @@ Use console.log() to print the types property of the food object to the terminal
 
 #### Exercise Fourteen
 
+Create a javascript file. In that file, define a variable named food like this:
+
+var food = {
+  types: 'only pizza'
+};
+
+Use console.log() to print the types property of the food object to the terminal.
+
+#### Exercise Fifteen
+
 Create a javascript file. In that file, define a function named eat that takes an argument named food
 that is expected to be a string. Inside the function return the food argument like this:
 
@@ -129,7 +139,7 @@ return food + ' tasted really good.';
 
 Inside of the parentheses of console.log(), call the eat() function with the string bananas as the argument.
 
-#### Exercise Fifteen 
+#### Exercise Sixteen 
 
 Create a javascript file. In that file, define a function named math that takes three arguments. It's important for you to understand that arguments names are only used to reference them. 
 
