@@ -149,4 +149,4 @@ The function math should multiply the second and third arguments, then add the f
 
 After that, inside the parentheses of console.log(), call the math() function with the number 53 as first argument, the number 61 as second and the number 67 as third argument.
 
-
+ 
